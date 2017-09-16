@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/CustomerJpaController.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/ProductCodeJpaController.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/PurchaseOrderJpaController.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/DiscountCodeJpaController.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/exceptions/NonexistentEntityException.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/ManufacturerJpaController.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/entities/Customer.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/MicroMarketJpaController.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/exceptions/RollbackFailureException.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/ProductJpaController.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/exceptions/PreexistingEntityException.java</file>
+            <file>file:/F:/UFF/Desenvolvimento%20de%20Aplicaçoes%20Corporativas/crud-demo/crud-demo/src/java/jpa/controllers/exceptions/IllegalOrphanException.java</file>
+        </group>
+    </open-files>
+</project-private>
